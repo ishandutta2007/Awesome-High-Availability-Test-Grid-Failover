@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover?style=flat-square" alt="Issues"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-High-Availability-Test-Grid-Failover/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -81,9 +81,9 @@ The following hosted platforms provide managed DNS failover, global health check
 
 Open-source resilience tools provide transparent failover orchestration, multi-cluster federation, and chaos validation without query-based SaaS metering.
 
-Every repository is ranked below in **descending order by GitHub star count**.
+Every repository is ranked below in **descending order by GitHub Stars_Count**.
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |:---|:---|:---|
 | **[CoreDNS](https://github.com/coredns/coredns)** | [![Stars](https://img.shields.io/github/stars/coredns/coredns?style=social&color=white)](https://github.com/coredns/coredns/stargazers) | 🔌 **CNCF graduated DNS server** written in Go with plugin-based architecture. Serves as Kubernetes default DNS; powers custom failover plugins, fallback routing, and upstream health checking. |
 | **[Higress](https://github.com/alibaba/higress)** | [![Stars](https://img.shields.io/github/stars/alibaba/higress?style=social&color=white)](https://github.com/alibaba/higress/stargazers) | ⛩️ **Next-generation cloud-native AI & API gateway** built on Envoy and Istio. Provides multi-cluster high-availability routing, cross-region failover, circuit breaking, and active health checks. |
@@ -143,3 +143,12 @@ If you find this repository helpful for architecting resilient grids or evaluati
 *Make resilience testable, provable, and observable.*
 
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-High-Availability-Test-Grid-Failover&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-High-Availability-Test-Grid-Failover_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-High-Availability-Test-Grid-Failover_growth.svg">
+  </picture>
+</a>
