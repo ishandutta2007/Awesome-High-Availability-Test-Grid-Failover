@@ -1,6 +1,6 @@
 # Awesome-High-Availability-Test-Grid-Failover
 
-# Top High Availability & Test Grid Failover Ecosystem
+## Top High Availability & Test Grid Failover Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on DNS Failover, Global Server Load Balancing & Self-Hosted Resilience Orchestration*  
